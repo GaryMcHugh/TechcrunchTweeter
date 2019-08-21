@@ -41,7 +41,7 @@ I created a scheduled task on my pc which runs the bat file at 9am every morning
  +  Delete Images locally after tweeting to save memory
  
   # Contact details:
-  <img src="Images/Icons/LinkedInIcon.png" height = "35" width = "35" alt="LinkedIn Icon" /> https://www.linkedin.com/in/gary-mchugh-b42037126/
+  <img src="Images/Icons/LinkedInIcon.jpg" height = "30" width = "30" alt="LinkedIn Icon" /> https://www.linkedin.com/in/gary-mchugh-b42037126/
   
   <img src="Images/Icons/emailIcon.png" height = "35" width = "35" alt="Email Icon" /> <a href="mailto:garymchughsoftware@outlook.com">garymchughsoftware@outlook.com</a>
   
