@@ -12,11 +12,11 @@ TechCrunch Tweeter is a program written in C# that will tweet the featured artic
   
   # General
   
- ## Twitter Link  <img src="Images/logos/twitterIcon.png" height = "20" width = "20" alt="Twitter Icon" />
+ ## Twitter Link  <img src="Images/Icons/twitterIcon.png" height = "20" width = "20" alt="Twitter Icon" />
  Take a look at the Twitter account here: https://twitter.com/TechC_Daily
  
   ## Sample Tweet
-  <img src="Images/tweet.png" alt="Tweet" href = "https://twitter.com/TechC_Daily/status/1159487020038787072" />
+  <img src="Images/tweet.PNG" alt="Tweet" href = "https://twitter.com/TechC_Daily/status/1159487020038787072" />
   
  # Technical Components:
  
@@ -41,9 +41,9 @@ I created a scheduled task on my pc which runs the bat file at 9am every morning
  +  Delete Images locally after tweeting to save memory
  
   # Contact details:
-  <img src="Images/logos/linkedInIcon.png" height = "20" width = "20" alt="LinkedIn Icon" /> https://www.linkedin.com/in/gary-mchugh-b42037126/
+  <img src="Images/Icons/LinkedInIcon.jpg" height = "30" width = "30" alt="LinkedIn Icon" /> https://www.linkedin.com/in/gary-mchugh-b42037126/
   
-  <img src="Images/logos/EmailIcon.png" height = "20" width = "20" alt="Email Icon" /> <a href="mailto:garymchughsoftware@outlook.com">garymchughsoftware@outlook.com</a>
+  <img src="Images/Icons/emailIcon.png" height = "35" width = "35" alt="Email Icon" /> <a href="mailto:garymchughsoftware@outlook.com">garymchughsoftware@outlook.com</a>
   
  ### Disclaimer
  I am in no way affiliated with [TechCrunch](https://techcrunch.com/). This project was simply written as a coding exercise for myself to iprove my knowledge and skills.
