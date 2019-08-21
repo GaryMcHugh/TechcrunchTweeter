@@ -12,7 +12,7 @@ TechCrunch Tweeter is a program written in C# that will tweet the featured artic
   
   # General
   
- ## Twitter Link  <img src="Images/Icons/twitterIcon.png" height = "20" width = "20" alt="Twitter Icon" />
+ ## <img src="Images/Icons/twitterIcon.png" height = "20" width = "20" alt="Twitter Icon" /> Twitter Link
  Take a look at the Twitter account here: https://twitter.com/TechC_Daily
  
   ## Sample Tweet
@@ -30,7 +30,7 @@ The selenium script that I wrote launches a google chrome browser and navigates 
 Tweet Sharp is a C# library that I used in this project, this library allows me to compose a tweet with images (media tweet) or without. I am then able to pass my api key and access token to the api which authenticates the request and tweets out the composed tweet. 
 
 ### Batch file
-I wrote a simple batch file which is used to run the C# code each morning. The batch file runs 'TechcrunchTweeter.exe' which executes the program.
+I wrote a simple [batch file](https://github.com/GaryMcHugh/TechcrunchTweeter/blob/master/techcrunchtweet.bat) which is used to run the C# code each morning. The batch file runs 'TechcrunchTweeter.exe' which executes the program.
 
 ### Scheduled task
 I created a scheduled task on my pc which runs the bat file at 9am every morning.
@@ -40,7 +40,16 @@ I created a scheduled task on my pc which runs the bat file at 9am every morning
  +  Run Chrome in suppressed mode to stop it showing up when run
  +  Delete Images locally after tweeting to save memory
  
-  # Contact details:
+ ## How to run
+ +  Clone or download this project
+ +  Create a [Developer account](https://developer.twitter.com/en/apply-for-access) on Twitter
+ +  Add your api keys and access tokens to the code variables (lines 14 to 17 of [Program.cs](https://github.com/GaryMcHugh/TechcrunchTweeter/blob/master/TechcrunchTweeter/TechcrunchTweeter/Program.cs) )
+ +  Create a folder called tweetBot in your C: drive
+ +  Change the file path on line 28 of [Program.cs](https://github.com/GaryMcHugh/TechcrunchTweeter/blob/master/TechcrunchTweeter/TechcrunchTweeter/Program.cs) to your file path so Selenium can launch chrome
+ +  Run the program in Visual Studio
+ +  If you are going to use the [.bat file](https://github.com/GaryMcHugh/TechcrunchTweeter/blob/master/techcrunchtweet.bat) to run, be sure to change the file path from my path to your own path
+ 
+  ## Contact details:
   <img src="Images/Icons/LinkedInIcon.jpg" height = "30" width = "30" alt="LinkedIn Icon" /> https://www.linkedin.com/in/gary-mchugh-b42037126/
   
   <img src="Images/Icons/emailIcon.png" height = "35" width = "35" alt="Email Icon" /> <a href="mailto:garymchughsoftware@outlook.com">garymchughsoftware@outlook.com</a>
