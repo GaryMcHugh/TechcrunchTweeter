@@ -55,4 +55,4 @@ I created a scheduled task on my pc which runs the bat file at 9am every morning
   <img src="Images/Icons/emailIcon.png" height = "35" width = "35" alt="Email Icon" /> <a href="mailto:garymchughsoftware@outlook.com">garymchughsoftware@outlook.com</a>
   
  ### Disclaimer
- I am in no way affiliated with [TechCrunch](https://techcrunch.com/). This project was simply written as a coding exercise for myself to iprove my knowledge and skills.
+ I am in no way affiliated with [TechCrunch](https://techcrunch.com/). This project was simply written as a coding exercise for myself to improve my knowledge and skills.
